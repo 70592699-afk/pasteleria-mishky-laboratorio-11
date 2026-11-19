@@ -1,0 +1,6 @@
+PASTELERÍA MISHKY — LABORATORIO 11 
+Abrir catalogo.html con Live Server desde Visual Studio Code.
+No abrir con doble clic (file://), porque Fetch API necesita un servidor HTTP.
+Estructura: catalogo.html, css/estilos.css, js/catalogo.js, data/productos.json, img/.
+Las fotografías locales de productos están en img/productos/.
+Nota sobre las imágenes: este paquete se armó a partir de los recursos visuales disponibles en la conversación. Las imágenes que proceden de capturas fueron recortadas y ampliadas; no son los JPG originales de 900x900 mencionados en la guía. Para calidad original, reemplazar esos JPG por los originales del ZIP Recursos_Lab11_Pasteleria_Mishky.
